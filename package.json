@@ -1,6 +1,6 @@
 {
   "name": "@gloomweaver/re-use",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     ],
     "splitting": false,
     "sourcemap": true,
-    "clean": true
+    "clean": true,
+    "format": [
+      "cjs",
+      "esm"
+    ],
+    "dts": true
   },
   "keywords": [
     "react"
