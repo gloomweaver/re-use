@@ -1,6 +1,6 @@
 {
   "name": "@gloomweaver/re-use",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -35,6 +35,6 @@
     "typescript": "^5.4.5"
   },
   "peerDependencies": {
-    "react": "^18.3.1"
+    "react": "^18.2.0"
   }
 }
